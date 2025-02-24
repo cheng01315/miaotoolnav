@@ -103,7 +103,7 @@ function SearchParamsComponent() {
 
   return (
     <div className="flex min-h-screen flex-col bg-background">
-      <TopBanner />
+      <TopBanner/>
       <div className="flex flex-1">
         <SidebarProvider>
           {
