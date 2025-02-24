@@ -104,6 +104,7 @@ function SearchParamsComponent() {
   return (
     <div className="flex min-h-screen flex-col bg-background">
       <TopBanner />
+      <h1 className="text-2xl font-bold text-center py-4">{collectionName || "欢迎使用喵喵工具导航"}</h1>
       <div className="flex flex-1">
         <SidebarProvider>
           {
