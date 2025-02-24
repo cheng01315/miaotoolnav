@@ -102,7 +102,6 @@ function SearchParamsComponent() {
   }, [selectedCollectionId, currentFolderId]);
 
   return (
-    <h1 className="text-2xl font-bold text-center py-4">欢迎来到喵喵工具箱！</h1>
     <div className="flex min-h-screen flex-col bg-background">
       <TopBanner/>
       <div className="flex flex-1">
@@ -127,6 +126,16 @@ function SearchParamsComponent() {
                   currentFolderId={currentFolderId}
                   onBookmarkAdded={refreshData}
                 />
+                
+                <div class="w-full bg-white">
+                  <div class="container mx-auto px-4">
+                    <div class="flex flex-col items-center justify-center space-y-4">
+                      <h1 class="text-4xl font-bold text-center">欢迎来到喵喵工具导航</h1>
+                      <p class="text-xl text-gray-600 text-center">在这里，你将找到高效、实用的工具，简单易用，轻松搞定一切需求！</p>
+                    </div>
+                  </div>
+                </div>
+                
                 <div className="flex-1 overflow-y-auto">
                   <BookmarkGrid
                     key={`${selectedCollectionId}-${currentFolderId}`}
