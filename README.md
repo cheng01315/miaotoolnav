@@ -3,11 +3,11 @@
 # 部署方法
 [部署方法](https://docs.pintree.io/en/guide/open-source)
 
-<br/>
+<br/><br/>
 <div align="center">
 -------以下为原项目信息:--------
 </div>
-<br/>
+<br/><br/>
 
 # Pintree
 
