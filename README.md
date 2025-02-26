@@ -1,7 +1,9 @@
 # 网站地址
--域名:https://miaotool.com
--vercel:
--https://miaotool-nav.vercel.app/
+<ul>
+<li>域名:https://miaotool.com</li>
+<li>vercel:</li>
+<li>https://miaotool-nav.vercel.app/</li>
+</ul>
 # 部署方法
 [部署方法](https://docs.pintree.io/en/guide/open-source)
 
