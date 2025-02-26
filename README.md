@@ -3,6 +3,8 @@
 
 <h1>以下为原项目信息:</h1>
 
+[部署方法](https://docs.pintree.io/en/guide/open-source)
+
 # Pintree
 
 <div align="center">
