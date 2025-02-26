@@ -4,8 +4,10 @@
 <li>
 vercel:
 <ul>
-  <li>https://miaotool-nav.vercel.app/</li>
+<li>https://miaotool-nav.vercel.app/</li>
+
 </ul>
+
 
 # 部署方法
 [部署方法](https://docs.pintree.io/en/guide/open-source)
