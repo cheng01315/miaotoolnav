@@ -3,9 +3,11 @@
 # 部署方法
 [部署方法](https://docs.pintree.io/en/guide/open-source)
 
+<p></p>
 <div align="center">
-<p style="color:blue;">-------以下为原项目信息:--------
+-------以下为原项目信息:--------
 </div>
+<p></p>
 
 # Pintree
 
