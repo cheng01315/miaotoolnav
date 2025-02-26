@@ -1,14 +1,14 @@
 # 网站地址
 域名:https://miaotool.com
 
-
 <p></p>
 
+# 部署方法
 [部署方法](https://docs.pintree.io/en/guide/open-source)
 
-<p></p>
-<h1>以下为原项目信息:</h1>
-<p></p>
+<div align="center">
+以下为原项目信息:
+</div>
 
 # Pintree
 
