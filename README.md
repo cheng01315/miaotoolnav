@@ -8,7 +8,10 @@ vercel:
   
 <li>https://miaotool-nav.vercel.app/</li>
 
+<li>https://miaotool-nav-cs-projects-ada28b4e.vercel.app/</li>
+
 </ul>
+</li>
 </ul>
   
 # 部署方法
