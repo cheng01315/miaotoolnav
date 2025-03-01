@@ -1,6 +1,5 @@
 # 网站地址
 <ul>
-<li>域名:https://miaotool.com</li>
 <li>
 vercel:
 
