@@ -102,11 +102,6 @@ function SearchParamsComponent() {
   }, [selectedCollectionId, currentFolderId]);
 
   return (
-    <div>
-    <h1 className="text-4xl font-bold text-center">欢迎来到喵喵工具导航</h1>
-    <p>在这里，你将找到高效、实用的工具，简单易用，轻松搞定一切需求！</p>
-    </div>
-      
     <div className="flex min-h-screen flex-col bg-background">
       <TopBanner/>
       <div className="flex flex-1">
