@@ -104,9 +104,9 @@ function SearchParamsComponent() {
   return (
     <div className="flex min-h-screen flex-col bg-background">
       
-      <h1 className="text-4xl font-bold text-center mt-5 mb-0">欢迎来到喵喵工具导航</h1>
+      <h1 className="text-4xl font-bold text-center mt-7 mb-2">欢迎来到喵喵工具导航</h1>
       <p className="text-xl text-gray-600 text-center mt-0 mb-2">在这里，你将找到高效、实用的工具，简单易用，轻松搞定一切需求！</p>
-      
+  
       <TopBanner/>
       <div className="flex flex-1">
         <SidebarProvider>
