@@ -14,16 +14,15 @@ vercel:
 </ul>
 
 # 修改首页信息
-[修改地址：page页面]（https://github.com/cheng01315/miaotool-nav-next.js/blob/main/src/app/page.tsx）
+[修改地址：page页面](https://github.com/cheng01315/miaotool-nav-next.js/blob/main/src/app/page.tsx)
 
 <p>修改return下方的信息</p>
   
 # 部署方法
 [部署方法](https://docs.pintree.io/en/guide/open-source)
 
+<br/>
 
-
-<br/><br/>
 <div align="center">
 -------以下为原项目信息:--------
 </div>
