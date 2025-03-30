@@ -5,10 +5,6 @@
     <strong>netlify:</strong>https://miaotoolnav-old.netlify.app/
   </li>
   
-  <li>
-    <strong>域名:</strong>https://miaotool.com
-  </li>
-  
 </ul>
 
 <br/>
