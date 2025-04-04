@@ -143,7 +143,6 @@ function SearchParamsComponent() {
                   />
                 </div>
                 <Footer />
-                 <a href="https://searchtool-five.vercel.app/">搜索工具</a>
               </div>
               <BackToTop />
             </>
