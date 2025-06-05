@@ -1,6 +1,6 @@
 # 网站地址
 <ul>
-  <li>地址：https://miaotool.com/</li>
+  <li>地址：https://www.miaonav.top</li>
 <li>
 vercel:
 
