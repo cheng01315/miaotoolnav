@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1713011996067,
-    "title": "收藏夹栏",
+    "title": "栏目",
     "children": [
       {
         "type": "folder",
@@ -3263,13 +3263,6 @@
             "title": "问小白（deepseek满血版）",
             "icon": "https://favicon.im/www.wenxiaobai.com",
             "url": "https://www.wenxiaobai.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1748154268125,
-            "title": "P站镜像",
-            "icon": "https://favicon.im/pixivic.com",
-            "url": "https://pixivic.com/?VNK=2ffe1954"
           }
         ]
       },
