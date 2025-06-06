@@ -1843,7 +1843,7 @@ select {
 }
 
 .folder__back {
-  fill: #51A1FE;
+  fill: #0BA665;
   rx: 10;
   ry: 10;
 }
@@ -1917,7 +1917,7 @@ select {
 }
 
 .loader {
-  border-top-color: #51A1FE;
+  border-top-color: #0BA665;
   /* You can change this color as needed */
   animation: spin 1s linear infinite;
 }
