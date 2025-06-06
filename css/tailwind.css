@@ -1917,7 +1917,7 @@ select {
 }
 
 .loader {
-  border-top-color: #0BA665;
+  border-top-color: #51A1FE;
   /* You can change this color as needed */
   animation: spin 1s linear infinite;
 }
