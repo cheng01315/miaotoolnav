@@ -27,6 +27,30 @@
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
     gtag('config', 'G-P1JF3QTQ79');
+
+        document.addEventListener('DOMContentLoaded', () => {
+      // 搜索按钮
+      const searchButton = document.getElementById('searchButton');
+      // 搜索输入框
+      const searchInput = document.getElementById('searchInput');
+      // 清除搜索按钮
+      const clearSearchButton = document.getElementById('clearSearchButton');
+    
+      // 展开搜索框
+      searchButton.addEventListener('click', () => {
+        searchInput.classList.toggle('hidden');
+        clearSearchButton.classList.toggle('hidden');
+        searchInput.focus();
+      });
+    
+      // 清除搜索结果
+      clearSearchButton.addEventListener('click', () => {
+        searchInput.value = '';
+        clearSearchButton.classList.add('hidden');
+      });
+    
+      // 搜索功能
+      searchButton.addEventListener('click', ()
   </script>
 
   <!-- Facebook Meta Tags -->
