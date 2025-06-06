@@ -2357,7 +2357,7 @@ select {
   }
 
   .\[\@media\(prefers-color-scheme\:dark\)\]\:stroke-teal-500 {
-    stroke: #14b8a6;
+    stroke: #51A1FE;
   }
 
   .group:hover .\[\@media\(prefers-color-scheme\:dark\)\]\:group-hover\:fill-teal-50 {
@@ -2365,7 +2365,7 @@ select {
   }
 
   .group:hover .\[\@media\(prefers-color-scheme\:dark\)\]\:group-hover\:stroke-teal-600 {
-    stroke: #0d9488;
+    stroke: #4B69D5;
   }
 
   .group:hover .\[\@media\(prefers-color-scheme\:dark\)\]\:group-hover\:stroke-zinc-400 {
@@ -2379,7 +2379,7 @@ select {
   }
 
   .\[\@media_not_\(prefers-color-scheme\:dark\)\]\:stroke-teal-500 {
-    stroke: #14b8a6;
+    stroke: #51A1FE;
   }
 }
 
