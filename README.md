@@ -1,17 +1,10 @@
 # 网站地址
-<ul>
-  <li>地址：https://www.miaonav.top</li>
-<li>
 vercel:
 
 <ul>
   
 <li>https://miaotool-nav.vercel.app/</li>
 
-<li>https://miaotool-nav-cs-projects-ada28b4e.vercel.app/</li>
-
-</ul>
-</li>
 </ul>
 
 # 修改首页信息
