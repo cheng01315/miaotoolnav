@@ -1,9 +1,9 @@
 # 网站地址
-vercel:
+
 
 <ul>
   
-<li>https://miaotool-nav.vercel.app/</li>
+<li>域名：www.miaonav.top</li>
 
 </ul>
 
