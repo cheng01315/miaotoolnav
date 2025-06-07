@@ -3,8 +3,8 @@
 
 <ul>
   
-<li>域名：www.miaonav.top</li>
-
+<li><strong>域名：</strong>www.miaonav.top</li>
+<li><strong>netlify：</strong>https://miaonav-top.netlify.app/</li>
 </ul>
 
 # 修改首页信息
