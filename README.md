@@ -1,11 +1,4 @@
-# 网站地址
 
-
-<ul>
-  
-<li><strong>域名：</strong>www.miaonav.top</li>
-<li><strong>netlify：</strong>https://miaonav-top.netlify.app/</li>
-</ul>
 
 # 修改首页信息
 [修改地址：page页面](https://github.com/cheng01315/miaotool-nav-next.js/blob/main/src/app/page.tsx)
