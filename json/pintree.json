@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1713011996067,
+    "addDate": 1749473150902,
     "title": "栏目",
     "children": [
       {
@@ -1973,6 +1973,13 @@
                 "title": "SSRNET",
                 "icon": "https://favicon.im/netally.in",
                 "url": "https://netally.in/auth/login"
+              },
+              {
+                "type": "link",
+                "addDate": 1749832470760,
+                "title": "狗狗加速.com",
+                "icon": "https://favicon.im/v.dg6.im",
+                "url": "https://v.dg6.im/#/register?code=oaxsAGo6"
               }
             ]
           }
@@ -3945,13 +3952,6 @@
           },
           {
             "type": "link",
-            "addDate": 1744538403770,
-            "title": "人人影视下载分享站",
-            "icon": "https://favicon.im/yyets.click",
-            "url": "https://yyets.click/search"
-          },
-          {
-            "type": "link",
             "addDate": 1744538439286,
             "title": "BT之家1LOU站",
             "icon": "https://favicon.im/www.1lou.me",
@@ -5494,6 +5494,20 @@
                 "title": "Netlify",
                 "icon": "https://favicon.im/app.netlify.com",
                 "url": "https://app.netlify.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749318562881,
+                "title": "Vercel",
+                "icon": "https://favicon.im/vercel.com",
+                "url": "https://vercel.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749370732107,
+                "title": "Neon",
+                "icon": "https://favicon.im/console.neon.tech",
+                "url": "https://console.neon.tech/"
               }
             ]
           },
