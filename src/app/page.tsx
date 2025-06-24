@@ -127,7 +127,7 @@ function SearchParamsComponent() {
                   currentFolderId={currentFolderId}
                   onBookmarkAdded={refreshData}
                 />
-                <h1 className="text-4xl font-bold text-center mt-8 mb-2">欢迎来到小猫工具</h1>
+                <h1 className="text-4xl font-bold text-center mt-8 mb-2">欢迎喵喵工具导航</h1>
                 <p className="text-xl text-gray-600 text-center my-2">在这里，你将找到高效、实用的工具，简单易用，轻松搞定一切需求！</p>
                 <div className="flex-1 overflow-y-auto">
                   <BookmarkGrid
