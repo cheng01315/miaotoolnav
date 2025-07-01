@@ -2,8 +2,7 @@
 
 
 <ul>
-<li><strong>域名：</strong>www.miaotool.com </li>
-<li><strong>netlify：</strong>https://xiaomaotool.netlify.app/</li>
+<li><strong>域名：</strong>new.miaonav.top </li>
 <li><strong>vercel：</strong>https://miaotool-nav.vercel.app/</li>
 </ul>
 
