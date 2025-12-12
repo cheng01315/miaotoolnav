@@ -2,7 +2,6 @@
 
 
 <ul>
-<li><strong>域名：</strong>https://new.miaonav.top </li>
 <li><strong>vercel：</strong>https://miaotool-nav.vercel.app/</li>
 </ul>
 
