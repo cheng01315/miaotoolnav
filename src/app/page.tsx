@@ -128,7 +128,17 @@ function SearchParamsComponent() {
                   onBookmarkAdded={refreshData}
                 />
                 <h1 className="text-4xl font-bold text-center mt-8 mb-2">欢迎来到喵喵工具导航</h1>
-                <p className="text-xl text-gray-600 text-center my-2">可以尝试访问我的全新的导航地址：miaonav.top</p>
+                <p className="text-xl text-gray-600 text-center my-2">
+                  可以尝试访问我的全新导航地址：
+                  <a 
+                  href="https://miaonav.top"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-600 hover:underline ml-1"
+                  >
+                  miaonav.top
+                </a>
+                </p>
                 <div className="flex-1 overflow-y-auto">
                   <BookmarkGrid
                     key={`${selectedCollectionId}-${currentFolderId}`}
