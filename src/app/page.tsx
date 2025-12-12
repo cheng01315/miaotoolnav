@@ -128,7 +128,7 @@ function SearchParamsComponent() {
                   onBookmarkAdded={refreshData}
                 />
                 <h1 className="text-4xl font-bold text-center mt-8 mb-2">欢迎来到喵喵工具导航</h1>
-                <p className="text-xl text-gray-600 text-center my-2">可以尝试访问我的全新的导航地址：</p><a herf="https://miaonav.top">https://miaonav.top</a>
+                <p className="text-xl text-gray-600 text-center my-2">可以尝试访问我的全新的导航地址：miaonav.top</p>
                 <div className="flex-1 overflow-y-auto">
                   <BookmarkGrid
                     key={`${selectedCollectionId}-${currentFolderId}`}
